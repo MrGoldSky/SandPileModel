@@ -54,3 +54,7 @@ After the simulation completes, the generated BMP images will be saved in the sp
 - **sandpile.cpp / sandpile.h:** Contains the logic for simulating the sandpile model, including cell toppling and dynamic grid resizing.
 - **imagegenerator.cpp / imagegenerator.h:** Implements the BMP image generation based on the current state of the sandpile.
 - **main.cpp:** The entry point of the application, which ties all the components together.
+
+## License
+
+MIT License
